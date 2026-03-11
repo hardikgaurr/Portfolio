@@ -16,9 +16,10 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+              I’m a web and app developer passionate about building responsive,
+              scalable, and user-friendly digital products using modern
+              technologies. I help businesses turn their ideas into fast,
+              reliable web and mobile applications.
             </p>
 
             <p className="text-muted-foreground">
@@ -35,7 +36,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href=""
+                href="https://drive.google.com/file/d/1BihcrVF2mckPDhtDzBDgGqjA9xb_rbsK/view?usp=drivesdk"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV
